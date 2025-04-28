@@ -2,6 +2,8 @@
 Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
 ![bady](https://github.com/user-attachments/assets/9c2f09f4-ee9b-4010-a0ca-4290a65843f9)
 
+Telegram Contact : https://t.me/ZeroTraceDeveloper
+
 # 🕳️ NullPoint Stealer
 
 ![License](https://img.shields.io/badge/license-ECL-blueviolet)
