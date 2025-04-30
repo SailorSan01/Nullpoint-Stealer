@@ -4,6 +4,7 @@ Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
 
 
 Telegram Contact : https://t.me/NeverTrace
+Telegram Group : https://t.me/zerotraceofficial
 
 # 🕳️ NullPoint Stealer
 
@@ -74,5 +75,4 @@ Build → Release Mode
 Run in a VM
 
 
-## TG
-https://t.me/nullpointst
+
