@@ -1,9 +1,12 @@
+## THIS REPO IS OLD, ITS MOVED TO
+https://github.com/luis22d/ZTrace11-Welcome-Future
+
+
 # Nullpoint-Stealer
 Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
 ![bady](https://github.com/user-attachments/assets/9c2f09f4-ee9b-4010-a0ca-4290a65843f9)
 
-## THIS REPO IS OLD, ITS MOVED TO
-https://github.com/luis22d/ZTrace11-Welcome-Future
+
 
 Telegram Contact : https://t.me/NeverTrace
 Telegram Group : https://t.me/zerotraceofficial
